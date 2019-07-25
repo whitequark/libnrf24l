@@ -1,0 +1,12 @@
+# C build products
+build/
+.stamp
+*.bin
+*.lib
+*.ihex
+
+# Python build products
+__pycache__/
+*.pyc
+*.egg-info
+dist/
